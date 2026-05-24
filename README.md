@@ -17,11 +17,13 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=kovvurisupraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-5o16.vercel.app/api?username=kovvurisupraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=kovvurisupraj&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-5o16-4ah8pjqbw-supraj-s-projects.vercel.app/api/top-langs/?username=kovvurisupraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-5o16.vercel.app/api/top-langs/?username=kovvurisupraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
